@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_main); //Al estar comentada esta linea
+        //setContentView(R.layout.activity_main); //Al estar comentada esta linea, no carga el layout 'activity_main' por lo que el texto de xml no se ve
 
         TextView nuevoTexto = new TextView(this);
         nuevoTexto.setText("Hola DAM desde Java");

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_30c66a64d8714dbcd39b0cf38e861d6c4525619f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0c5236ae7068937dc05a07fcf74bc36e44b5f02f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8575e8f32c8e06395d74b124abf2a1cc06e227c2">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_efa58889c43303d1bf6d709a28563eb470e16bff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_5bf8b19a6414b473c51bc9d8918ff79d3cdac1c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_acabe18d5fc185bdaa43dab44b0aaa852828dd35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f8f5c1f6c0b9b37260502b137410b669d072768b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e483edfd84d33ca24afcfa91aa2556288af0eb0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a73c9ebfdfcd894416dc9db4edafcdf6f2c8accf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_022e82c97f1bf48a93bfa8a527db7702c0e8b618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_92d180cc4de50002d7da08cb32dadc3e9f903aac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_07136dde7c2257488bc45955dedbf67ae481c396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e8e9aa31532f96b0aae13fc61b507b36b56c0eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_1fd5cd65f41ff1c92c00daa6dfe285b8669a93ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0202507ceccc83ba20e00e6b855d8835003249fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a9763471cfd5a2230fc1b05416345762339d2df">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e4070b0c577f788cf7b22478a465753d6682795e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_f3d44c0d5c633eda449ed5f5cb62b52336fcfaa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\HolaDAM\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_02abc30b729b667da3b616b63eaee6bc24c27789\classes.dex" />
+    </item>
+
+</items>
